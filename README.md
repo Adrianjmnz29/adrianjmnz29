@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Adrián Jiménez
 
-<!--
-**Adrianjmnz29/adrianjmnz29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geologist with +8 years of experience in underground mining, specialized in ore control, reconciliation (F1, F2, F3), and operational data analysis.
 
-Here are some ideas to get you started:
+Currently transitioning into Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Data Analysis & Visualization
+- Excel / Power Query / Power BI
+
+📊 Projects
+- Chicago Taxi Data Analysis
+- House Price Classification (Machine Learning)
+- Vehicle Data Exploration (Streamlit)
+
+🚀 About Me
+I combine real-world mining experience with data analysis to improve decision-making and optimize processes.
+
+📫 Contact
+- LinkedIn: https://www.linkedin.com/in/jesus-adrian-jimenez
+- Email: jssjimenez@outlook.com
