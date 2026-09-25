@@ -12,6 +12,8 @@ Currently transitioning into Data Science.
 
 📊 Projects
 - Chicago Taxi Data Analysis
+- mental-health-analysis
+- Telecom_Churn_custumers
 - House Price Classification (Machine Learning)
 - Vehicle Data Exploration (Streamlit)
 
