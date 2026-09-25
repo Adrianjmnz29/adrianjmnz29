@@ -1,6 +1,6 @@
 👋 Hi, I'm Adrián Jiménez
 
-Geologist with +8 years of experience in underground mining, specialized in ore control, reconciliation (F1, F2, F3), and operational data analysis.
+Geologist with +10 years of experience in underground mining, specialized in ore control, reconciliation (F1, F2, F3), and operational data analysis.
 
 Currently transitioning into Data Science.
 
